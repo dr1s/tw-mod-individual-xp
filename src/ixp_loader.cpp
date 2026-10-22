@@ -1,6 +1,6 @@
-void AddIndividualXPScripts();
+void AddIndividualXpScripts();
 
-void Addmod_individual_xpScripts()
+void Addtw_mod_individual_xpScripts()
 {
-    AddIndividualXPScripts();
+    AddIndividualXpScripts();
 }
